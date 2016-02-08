@@ -1,0 +1,12 @@
+{
+  "name": "breakTime",
+  "version": "1.0.0",
+  "description": "YAML manage todo per directory",
+  "main": "index.js",
+  "bin": {
+    "break_time": "./index.js"
+  },
+  "dependencies": {
+    "terminal-notifier": "^0.1.2"
+  }
+}
